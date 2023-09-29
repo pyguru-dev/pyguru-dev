@@ -4,10 +4,10 @@
   </a>
   <br>
   <a href="https://github.com/EXG1O">
-    <img src="https://github-readme-stats.vercel.app/api?username=exg1o&theme=dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pyguru&theme=dark&show_icons=true" />
   </a>
   <br>
-  <a href="https://github.com/EXG1O?tab=repositories">
+  <a href="https://github.com/pyguru-dev?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exg1o&theme=dark&card_width=467" />
   </a>
   <br>
