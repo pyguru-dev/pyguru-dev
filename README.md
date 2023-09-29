@@ -6,7 +6,7 @@
   </a>
   <br>
   <a href="https://github.com/pyguru-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=pyguru-dev&theme=dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=My&theme=dark&show_icons=true" />
   </a>
   <br>
   <a href="https://github.com/pyguru-dev?tab=repositories">
