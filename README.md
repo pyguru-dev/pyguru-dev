@@ -11,7 +11,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exg1o&theme=dark&card_width=467" />
   </a>
   <br>
-  <a href="https://www.buymeacoffee.com/exg1o" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;">
-  </a>
 </p>
